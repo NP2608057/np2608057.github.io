@@ -1,6 +1,4 @@
-layout: default
-title: Home
---- # Welcome to My Portfolio Hello! My name is [Powe].
+ Welcome to My Portfolio Hello! My name is NP.
 ## Projects
 - Project 1: coming soon
 - Project 2: coming later
