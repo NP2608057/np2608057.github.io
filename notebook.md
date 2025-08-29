@@ -4,7 +4,7 @@
 - [Flutter notes](#day-1)    
   - [What is flutter](#notes)      
   - [Key terms and Definitions](#practice)     
-- [Note book style Guide](#Day2)
+[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
 
@@ -21,19 +21,20 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
+| Widget           |Basic building block of a flutter app.Everything is a widget text. image,container, colum                                              |                                           |
+| MaterialApp      |The root of the app , Srts up routes and themes                                                  |                                           |
+| Scaffold         |Provides basic visual layouts-like header, body , floating button                                                  |                                           |
+| StatelessWidget  |Predefined paths to navigate between screens                                                  |                                           |
 | StatefulWidget   |                                                  |                                           |
 | Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
+| AppBar           |Top navigation bar                                                   |                                           |
 | Column           |Vertical layout                                                  |                                           |
 | Row              |Horizontal layout                                                  |                                           |
 | Container        |Wraps content with padding, margin , or color                                                  |                                           |
 | Text             |Displays text                                                  |                                           |
 | Image.network    |Displays images from a URl                                                  |                                           |
-
+| Padding          |                                                  |                                           |
+| Center           |                                                  |                                           |
 ---
 
 ### 🎨 Layout and Design Widgets
