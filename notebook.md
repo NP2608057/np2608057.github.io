@@ -1,16 +1,47 @@
 # My coding notebook
 
-## Day 1
-notes for the day
+## Table of Contents
+- [Day 1](#day-1)    
+  - [Notes](#notes)      
+  - [Practice](#practice)     
+- [Day 2](#day-2)
 
-## Day 2 
-notes for the day
 
-8/25 in class were :
-1. adding notebook page
-2. adding the link to the notebook in the index.md file by writing :
-          ## Go to my coding notebook
-        [Coding Notebook].(notebook.md)
+
+
+
+
+### 🧱 What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### 🧩 Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |                                                  |                                           |
+| MaterialApp      |                                                  |                                           |
+| Scaffold         |                                                  |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |                                                  |                                           |
+| Row              |                                                  |                                           |
+| Container        |                                                  |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+
+---
+
+### 🎨 Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
+
+
    
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 ## Markdown Style Guide for Coding Notebooks
@@ -201,3 +232,6 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+
