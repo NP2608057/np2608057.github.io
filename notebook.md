@@ -12,8 +12,8 @@
 
 
 ### 🧱 What is Flutter?
-- Definition:
-- Why is it useful?
+- Definition: A frame work made by google for building apps that work on web,Android, and IOS-with one codebase
+- Why is it useful? Uses the Dart programming language and helps save time and money
 
 ---
 
