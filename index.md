@@ -4,3 +4,5 @@
 - Project 2: coming later
 ## About Me
 Click here to learn more → [About Me](about.md)
+
+[my notebook](notebook.md)
