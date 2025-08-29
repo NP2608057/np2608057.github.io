@@ -28,11 +28,11 @@
 | StatefulWidget   |                                                  |                                           |
 | Navigator        |                                                  |                                           |
 | AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
+| Column           |Vertical layout                                                  |                                           |
+| Row              |Horizontal layout                                                  |                                           |
+| Container        |Wraps content with padding, margin , or color                                                  |                                           |
+| Text             |Displays text                                                  |                                           |
+| Image.network    |Displays images from a URl                                                  |                                           |
 
 ---
 
