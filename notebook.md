@@ -1,10 +1,10 @@
 # My coding notebook
 
 ## Table of Contents
-- [Day 1](#day-1)    
-  - [Notes](#notes)      
-  - [Practice](#practice)     
-- [Day 2](#day-2)
+- [Flutter notes](#day-1)    
+  - [What is flutter](#notes)      
+  - [Key terms and Definitions](#practice)     
+- [Note book style Guide](#Day2)
 
 
 
