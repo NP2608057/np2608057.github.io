@@ -46,27 +46,27 @@
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
-|Variable      | A named container used to store a value that may change. | `var x = 5;` |  |  |
-|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |  |  |
-|Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |  |  |
-|String      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|Integer      | Whole number values. | `int age = 16;` |  |  |
-|Double      | Number values with decimals. | `double age = 16.2;` |  |  |
-|Boolean      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
-|List      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-|Null      | A special value that means “nothing.” | `String? name = null;` |  |  |
-|Function      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
-|Parameter      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-|Return      | The result a function gives back. | `return total;` |  |  |
-|Scope      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
-|Class      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
-|Object      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-|Property      | A variable that belongs to a class/object. | `String name;` |  |  |
-|Method      | A function that belongs to a class. | `void bark() {}` |  |  |
-|Constructor      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|Abstraction      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|Override      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|Void      | A function that does not return a value. | `void printMessage() {}` |  |  |
+|Variable      | A named container used to store a value that may change. | `var x = 5;` | Student ages 15  | |
+|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  ||
+|Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |Number of Mearsurements vs A name  |  |
+|String      | A sequence of characters used to represent words or text. | `"Hello World"` |Filtering spam emails  |  |
+|Integer      | Whole number values. | `int age = 16;` | A team/sports score  |  |
+|Double      | Number values with decimals. | `double age = 16.2;` | Math for data analysis  |  |
+|Boolean      | A value that can be true or false. | `bool isLoggedIn = false;` | Online forms that check for verification/valid input  |  |
+|List      | A collection of values in a specific order. | `List<String> names = [];` | AI in digital assistants   |  |
+|Null      | A special value that means “nothing.” | `String? name = null;` |A person who is careless about their missing phone  |  |
+|Function      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |Buisness software  |  |
+|Parameter      | The information passed into a function to change how it works. | `greet(String name)` |Video game characters customization  |  |
+|Return      | The result a function gives back. | `return total;` | Smart devices  |  |
+|Scope      | Where a variable or function can be used. | (No set syntax — concept-based) | Cyber security  |  |
+|Class      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Template for creativity  |  |
+|Object      | A specific version of a class. | `Dog myDog = Dog();` | A type of car  |  |
+|Property      | A variable that belongs to a class/object. | `String name;` | Screen size  |  |
+|Method      | A function that belongs to a class. | `void bark() {}` | A traffic light  |  |
+|Constructor      | A special function used to set up a class when it’s created. | `Dog(this.name);` |Meals that are pre-packaged  |  |
+|Abstraction      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | A remote control  |  |
+|Override      | Changing how a built-in or inherited function behaves. | `@override` | A circle and rectangle overriding  |  |
+|Void      | A function that does not return a value. | `void printMessage() {}` |"print this document" or "turn on the light"|  |
 
    
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
