@@ -54,7 +54,7 @@
 |Double      | Number values with decimals. | `double age = 16.2;` | Math for data analysis  |  |
 |Boolean      | A value that can be true or false. | `bool isLoggedIn = false;` | Online forms that check for verification/valid input  |  |
 |List      | A collection of values in a specific order. | `List<String> names = [];` | Information on User   |  |
-|Null      | A special value that means “nothing.” | `String? name = null;` |A person who is careless about their missing phone  |  |
+|Null      | A special value that means “nothing.” | `String? name = null;` |A loading level |  |
 |Function      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |Buisness software  |  |
 |Parameter      | The information passed into a function to change how it works. | `greet(String name)` |Video game characters customization  |  |
 |Return      | The result a function gives back. | `return total;` | Smart devices  |  |
