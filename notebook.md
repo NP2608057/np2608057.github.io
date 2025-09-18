@@ -72,9 +72,9 @@
 |@ override    | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
 |Build       | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |creating something , building on something  |  |
 |build()     | Required in every widget class to describe what to show. | `build` |  |  |
-|Buildcontext      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
+|Buildcontext      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |being able to do or go back  |  |
 |Superkey     | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
-|const      | A keyword that means the value won't change and is set once. | `const` |  |  |
+|const      | A keyword that means the value won't change and is set once. | `const` | A title , next , and home  |  |
 
 [Code Definitions](#code-definitions)
 
