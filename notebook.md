@@ -64,17 +64,17 @@
 |ElevatedButton     | A clickable button that floats above content. You choose what happens when it's clicked. | `ElevatedButton(onPressed: ..., child: ...)` |  |  |
 |onPressed      | The code that gets run when a button is tapped or something happens. | `onPressed: () => doSomething()` |  |  |
 |StatelessWidget      | A class that creates widgets that never change. Good for static screens. | `class HomeScreen extends StatelessWidget` |  |  |
-|     | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
-|Navigator      | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |  |  |
-|      | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
-|BuildContext      | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
-|super.Key      | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
+|Statefulwidget     | A class for widgets that can change while the app is running. | `class MyWidget extends StatefulWidget` |  |  |
+|Navigator      | Lets you move from one screen to another using route names. | `Navigator.pushNamed(context, '/about')` |navigates to differents tabs  |  |
+|Padding      | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
+|Center child    | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
+|Wrap      | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
 |@ override    | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |  |
-|      | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |  |  |
+|Build       | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |creating something , building on something  |  |
 |build()     | Required in every widget class to describe what to show. | `build` |  |  |
-|      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
-|      | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
-|      | A keyword that means the value won't change and is set once. | `const` |  |  |
+|Buildcontext      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |  |  |
+|Superkey     | A keyword used to pass a value to the parent widget. | `super.key` |  |  |
+|const      | A keyword that means the value won't change and is set once. | `const` |  |  |
 
 [Code Definitions](#code-definitions)
 
