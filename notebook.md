@@ -82,7 +82,7 @@ class MyPortfolioApp extends StatelessWidget   |
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
 |Variable      | A named container used to store a value that may change. | `var x = 5;` | Student ages 15  |In Main.dart , the title runApp(MyPortfolioApp()); |
-|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  ||
+|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  |NPTSAInfoApp|
 |Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |Number of Mearsurements vs A name  |  |
 |String      | A sequence of characters used to represent words or text. | `"Hello World"` |Filtering spam emails  |  |
 |Integer      | Whole number values. | `int age = 16;` | A team/sports score  |  |
@@ -100,8 +100,8 @@ class MyPortfolioApp extends StatelessWidget   |
 |Method      | A function that belongs to a class. | `void bark() {}` | A traffic light  |  |
 |Constructor      | A special function used to set up a class when it’s created. | `Dog(this.name);` |Meals that are pre-packaged  |  |
 |Abstraction      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | A remote control  |  |
-|Override      | Changing how a built-in or inherited function behaves. | `@override` | A circle and rectangle overriding  |  |
-|Void      | A function that does not return a value. | `void printMessage() {}` |"print this document" or "turn on the light"|  |
+|Override      | Changing how a built-in or inherited function behaves. | `@override` | A circle and rectangle overriding  |@override Widget build(BuildContext context)  |
+|Void      | A function that does not return a value. | `void printMessage() {}` |"print this document" or "turn on the light"|void main() {  |
 
    
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
