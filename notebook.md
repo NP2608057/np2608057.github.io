@@ -56,10 +56,7 @@
 |Main      | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |void main() => runApp(MyPortfolioApp());
 class MyPortfolioApp extends StatelessWidget   |
 |MaterialApp      | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
-|Scaffold      | A widget that gives you the basic layout: background, navigation bar, floating button, etc. |in showcase.dart ,  `Scaffold(...)` | a template  |return Scaffold(
-      body: Column(
- mainAxisAlignment: MainAxisAlignment.start,
-        children: [  |
+|Scaffold      | A widget that gives you the basic layout: background, navigation bar, floating button, etc. |in showcase.dart ,  `Scaffold(...)` | a template  |return Scaffold( body: Column( mainAxisAlignment: MainAxisAlignment.start, children: [  |
 |Column      | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
 |Row      | A widget that shows things side-by-side. | `Row(...)` |  |  |
 |Container      | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
@@ -73,8 +70,7 @@ class MyPortfolioApp extends StatelessWidget   |
 |Padding      | Makes space around a widget inside its container. | `Padding(padding: EdgeInsets.all(8.0), child: ...)` |  |  |
 |Center child    | Aligns content in the center of the screen or container. | `Center(child: ...)` |  |  |
 |Wrap      | Automatically puts widgets onto a new line when there's no space. | `Wrap(children: [...])` |  |  |
-|@ override    | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |@override
-  Widget build(BuildContext context)  |
+|@ override    | This marks a method as one that’s replacing a method in a parent class. | `@override` |  |@override Widget build(BuildContext context)  |
 |Build       | The special function in every widget that describes what gets drawn on the screen. | `Widget build(BuildContext context) {...}` |creating something , building on something  |  |
 |build()     | Required in every widget class to describe what to show. | `build` |  |  |
 |Buildcontext      | A variable that helps the widget know where it is and lets it communicate with the app. | `BuildContext context` |being able to do or go back  |  |
