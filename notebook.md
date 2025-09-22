@@ -83,12 +83,12 @@ class MyPortfolioApp extends StatelessWidget   |
 |------|------------|--------------------------|-------------------|-------------|
 |Variable      | A named container used to store a value that may change. | `var x = 5;` | Student ages 15  |In Main.dart , the title runApp(MyPortfolioApp()); |
 |Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  |NPTSAInfoApp|
-|Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |Number of Mearsurements vs A name  |  |
-|String      | A sequence of characters used to represent words or text. | `"Hello World"` |Filtering spam emails  |  |
+|Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |Number of Mearsurements vs A name  |Infocard.dart double  width: 100,  |
+|String      | A sequence of characters used to represent words or text. | `"Hello World"` |Filtering spam emails  |main.dart string title: 'TSA Portfolio',  |
 |Integer      | Whole number values. | `int age = 16;` | A team/sports score  |  |
 |Double      | Number values with decimals. | `double age = 16.2;` | Math for data analysis  |  |
 |Boolean      | A value that can be true or false. | `bool isLoggedIn = false;` | Online forms that check for verification/valid input  |  |
-|List      | A collection of values in a specific order. | `List<String> names = [];` | Information on User   |  |
+|List      | A collection of values in a specific order. | `List<String> names = [];` | Information on User   |final List<Map<String, String>> dogInfo = [ {  "image": "https://placedog.net/550",  "text": "This is Luna, cheerful retriever who loves playing fetch.", },  |
 |Null      | A special value that means “nothing.” | `String? name = null;` |A loading level |  |
 |Function      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |Buisness software  |  |
 |Parameter      | The information passed into a function to change how it works. | `greet(String name)` |Video game characters customization  |  |
