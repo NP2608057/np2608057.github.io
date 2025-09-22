@@ -82,7 +82,7 @@ class MyPortfolioApp extends StatelessWidget   |
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
 |Variable      | A named container used to store a value that may change. | `var x = 5;` | Student ages 15  |In Main.dart , the title runApp(MyPortfolioApp()); |
-|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  |NPTSAInfoApp|
+|Constant      | A fixed value that cannot change once set. | `const PI = 3.14;` |The title  ||
 |Data type      | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |Number of Mearsurements vs A name  |Infocard.dart double  width: 100,  |
 |String      | A sequence of characters used to represent words or text. | `"Hello World"` |Filtering spam emails  |main.dart string title: 'TSA Portfolio',  |
 |Integer      | Whole number values. | `int age = 16;` | A team/sports score  |  |
