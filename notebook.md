@@ -102,8 +102,11 @@ class MyPortfolioApp extends StatelessWidget   |
 |Abstraction      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | A remote control  |  |
 |Override      | Changing how a built-in or inherited function behaves. | `@override` | A circle and rectangle overriding  |@override Widget build(BuildContext context)  |
 |Void      | A function that does not return a value. | `void printMessage() {}` |"print this document" or "turn on the light"|void main() {  |
-
-   
+|Maximum int   | The max valuse an int can hold: 2147483647 | Integer.MAX_VALUE  |   |  |
+|Minimum int   | the minimum value an int can hold: -2147483648 | Integer.MIN_VALUE  |   |  |
+|Integer overflow   | Integer.MAX_VALUE + 1 == MIN_VALUE, it wraps around |  |   |  |
+|Integer underflow   | integer.MIN_VALUE-1 == MAX_VALUE, it wraps around |  |   |  |
+|round-off error   | an approw. of the actual value, reselt is rounded to the nearest value that fits within the available bits |  |   |  |
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 ## Markdown Style Guide for Coding Notebooks
 
