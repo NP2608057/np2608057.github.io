@@ -116,7 +116,8 @@ class MyPortfolioApp extends StatelessWidget   |
 Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
 This ensures your notes are easy for you (and others) to read later.
 
----
+<img width="1249" height="441" alt="image" src="https://github.com/user-attachments/assets/ba53eb7b-eb2d-45cb-8046-726c508677f8" />
+
 
 ## 🔹 Headings
 **When to use:** Organize your notebook into sections (like days, topics, or projects).  
