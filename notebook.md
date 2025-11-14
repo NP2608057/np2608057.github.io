@@ -39,7 +39,10 @@
 | Image.network    |Displays images from a URl                                                  |                                           |
 | Padding          |                                                  |                                           |
 | Center           |                                                  |                                           |
----
+|index      |location value of each character in a string or list , starting at 0                                                  | "hello" index or 'e' is 1                                           |
+| Substring           | Part of a larger string                                                 | "llo" is substring of "hello"
+|
+
 
 
 
